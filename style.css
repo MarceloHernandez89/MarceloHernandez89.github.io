@@ -63,7 +63,7 @@ header{
     display:flex;
     flex-flow: row wrap;
     justify-content:center;
-    background-image: url(img/img4.png);
+    background-image: url(img4.png);
     background-size:cover;
 
       
@@ -318,7 +318,7 @@ hr {
 
 .formulario {
     color:var(--blanco);
-    background-image: url(img/images.jpg);
+    background-image: url(images.jpg);
     background-size:cover;
     opacity: 0.6;
     padding: 20px;
